@@ -1,0 +1,1 @@
+# nextjs-prettier-husky-pnpm-docker-starter
